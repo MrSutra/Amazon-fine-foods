@@ -23,4 +23,3 @@ scwt
 $...
 000
 090costco
-one
